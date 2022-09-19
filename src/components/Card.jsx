@@ -1,5 +1,8 @@
 import React from "react";
 
+
+
+
 // export default function Card({ name, image, }) {
 export default function Card({ personaje }) {
   return (
